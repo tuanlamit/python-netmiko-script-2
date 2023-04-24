@@ -27,7 +27,7 @@ This is telnet within netmiko, SSH could also be used if this line is changed to
 
 At line:
 ```
-out_file_name = 
+out_file_name = f"/var/www/shared/BUILDING-ABC/testing_switches_backup_configs/show_running-config/sho_run***{hostname_output.split()[1]}***{ip}-{port}.txt"
 ```
 
 You can save the back-ups to your desired destination, I prefer to use the above path because I wanted the changes to reflect on the web browser (apache2 is needed).
