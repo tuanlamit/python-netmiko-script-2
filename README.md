@@ -8,7 +8,7 @@ These testing switches are used for testing purposes and do not have a managemen
 
 Below is the topology:
 
-![image](https://user-images.githubusercontent.com/128099142/233894228-dbb6538b-ac53-4065-860b-3afb16e1979c.png)
+![image](https://user-images.githubusercontent.com/128099142/233898056-e13bac22-cf78-45fd-9e7a-a1408e092b31.png)
 
 You'll need to create a .txt file to store IP addresses and line numbers in the same folder.
 
