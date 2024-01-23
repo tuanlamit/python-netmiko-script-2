@@ -7,8 +7,11 @@ Code executed on Ubuntu 22.04 to script approximately 200 Cisco testing switches
 As team requested, telnet was used to script the testing switches in the lab. Below is the physical lab topology:
 
 These testing switches are used for testing purposes and don't have a management IP address configured (no uplink). However, we could access via terminal server.
+
 The testing switches' console ports connect to the octal console cables. 
+
 These cables came from the HWIC/NIM modules on the terminal servers (ex: C2800/2600/2900 or ISR4221 routers). 
+
 So we could reach the switches through the terminal server's line numbering. 
 
 For example, enter this command into the terminal:
