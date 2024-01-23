@@ -28,11 +28,11 @@ Below is the physical lab topology:
 
 # Another virtual example using the same codes
 
-Working Directory:
+Working Directory & Result:
 
 ![1](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/5cfd0613-73a5-426a-bfdc-25195006a6d5)
 
-Result:
+Stored Outputs
 
 ![2](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/5efac279-8985-496a-844d-84b50ef82e2f)
 
