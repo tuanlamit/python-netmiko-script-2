@@ -24,7 +24,7 @@ Below is the physical lab topology:
 
 ![image](https://user-images.githubusercontent.com/128099142/233898056-e13bac22-cf78-45fd-9e7a-a1408e092b31.png)
 
-# This section below is an example on scripting the testing switches from GNS3 VM using the same code
+# Example from GNS3 VM
 
 Working Directory:
 
