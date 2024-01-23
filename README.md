@@ -9,7 +9,7 @@ As team requested, telnet was used to script the testing switches in the lab. Be
 
 These testing switches are used for testing purposes and don't have a management IP address configured (no uplink). 
 
-However, we could access via terminal server.
+However, we could access these switches via a terminal server.
 
 The testing switches' console ports connect to the octal console cables. 
 
