@@ -23,3 +23,15 @@ Note: x.x.x.x is the IP address of the terminal server and 2002 is the line numb
 Below is the physical lab topology:
 
 ![image](https://user-images.githubusercontent.com/128099142/233898056-e13bac22-cf78-45fd-9e7a-a1408e092b31.png)
+
+# This section below is an example on scripting the testing switches from GNS3 VM using the same code
+
+Working Directory:
+
+![1](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/5cfd0613-73a5-426a-bfdc-25195006a6d5)
+
+Result:
+
+![2](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/5efac279-8985-496a-844d-84b50ef82e2f)
+
+
