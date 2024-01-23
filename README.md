@@ -23,6 +23,8 @@ telnet x.x.x.x 20xx
 ```
 > [!NOTE]
 > x.x.x.x is the IP address of the terminal server and 20xx is the line number defined by the router, which provides access to the switches.
+>
+>
 > Line number could be 20xx, 40xx, or 60xx, but preferrably 20xx for normal use.
 
 Below is the physical lab topology:
@@ -46,6 +48,8 @@ Green
 
 > [!NOTE]
 > On the Cisco terminal server, display the line numbers with "show line", each line number maps to a physical console cable.
+>
+>
 > Each cable could be extended using an RJ45 coupler.
 
 
