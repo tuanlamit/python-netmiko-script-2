@@ -13,7 +13,7 @@ However, we could access these switches via a terminal server.
 
 The testing switches' console ports connect to the octal console cables. 
 
-These cables came from the HWIC/NIM modules on the terminal servers (ex: C2800/2600/2900 or ISR4221 routers). 
+These octal cables are screwed into the HWIC/NIM modules on the terminal servers (ex: C2800/2600/2900 or ISR4221 routers). 
 
 So we could reach the switches through the terminal server's line numbering. 
 
