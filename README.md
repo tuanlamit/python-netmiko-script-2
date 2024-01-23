@@ -17,9 +17,11 @@ So we could reach the switches through the terminal server's line numbering.
 
 For example, enter this command into the terminal:
 ```
-telnet x.x.x.x 2002
+telnet x.x.x.x 20xx
 ```
-Note: x.x.x.x is the IP address of the terminal server and 2002 is the line number defined by the router that is used to access the switch's console port)
+Note: 
+x.x.x.x is the IP address of the terminal server and 20xx is the line number defined by the router that is used to access the switch's console port.
+line number could be 20xx, 40xx, or 60xx, but preferrably 20xx for normal use.
 
 Below is the physical lab topology:
 
@@ -28,19 +30,21 @@ Below is the physical lab topology:
 
 # More on octal cables if you're interested:
 
-Blue ones
+Blue
    - Length: short
    - Physical numbering on each cable: 1 through 8
 
      ![blue](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/cc30f5dc-1555-4e1a-93be-07ef7056ef0b)
 
-Green ones
+Green
    - Length: long
    - Physical numbering on each cable: 0 through 7
 
      ![green](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/7d4c3156-7c0d-4a9a-b5f6-b55978e18813)
 
-Note: On the Cisco terminal server, display the line numbers with "show line", each line number maps to a physical console cable
+Note: 
+On the Cisco terminal server, display the line numbers with "show line", each line number maps to a physical console cable.
+Each cable could be extended using an RJ45 coupler.
 
 
 # Virtual lab example using the same codes
