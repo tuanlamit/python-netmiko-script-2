@@ -26,7 +26,7 @@ Below is the physical lab topology:
 ![image](https://user-images.githubusercontent.com/128099142/233898056-e13bac22-cf78-45fd-9e7a-a1408e092b31.png)
 
 
-# More on Octal Cables:
+# More on Octal Cables (if you're interested):
 
 Blue ones
    - Length: short
