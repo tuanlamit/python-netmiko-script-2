@@ -1,5 +1,6 @@
 # (Script is being improved, will upload once complete)
 
+
 # Script the testing switches and store the configs locally
 
 Code executed on Ubuntu 22.04 to script approximately 200 Cisco testing switches.
@@ -23,6 +24,7 @@ Note: x.x.x.x is the IP address of the terminal server and 2002 is the line numb
 Below is the physical lab topology:
 
 ![image](https://user-images.githubusercontent.com/128099142/233898056-e13bac22-cf78-45fd-9e7a-a1408e092b31.png)
+
 
 # Another virtual example using the same codes
 
