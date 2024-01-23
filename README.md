@@ -45,11 +45,11 @@ Note: On the Cisco terminal server, display the line numbers with "show line", e
 
 # Virtual lab example using the same codes
 
-Working Directory & Result:
+Working Directory & Outputs:
 
 ![1](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/5cfd0613-73a5-426a-bfdc-25195006a6d5)
 
-Stored Outputs
+Stored Configs
 
 ![2](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/5efac279-8985-496a-844d-84b50ef82e2f)
 
