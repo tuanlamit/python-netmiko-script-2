@@ -55,7 +55,7 @@ Green
 
 # Virtual lab example using the same codes
 
-Working Directory & Outputs:
+Working Directory & Result:
 
 ![1](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/5cfd0613-73a5-426a-bfdc-25195006a6d5)
 
