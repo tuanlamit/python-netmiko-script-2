@@ -28,15 +28,15 @@ Below is the physical lab topology:
 
 # More on Octal Cables:
 
-1) Blue ones
+Blue ones
    - Length: short
-   - Numbering on each cable: 1 through 8
+   - Physical numbering on each cable: 1 through 8
 
      ![blue](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/cc30f5dc-1555-4e1a-93be-07ef7056ef0b)
 
-3) Green ones
+Green ones
    - Length: long
-   - Numbering on each cable: 0 through 7
+   - Physical numbering on each cable: 0 through 7
 
      ![green](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/7d4c3156-7c0d-4a9a-b5f6-b55978e18813)
 
