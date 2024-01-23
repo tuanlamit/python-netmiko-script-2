@@ -40,6 +40,8 @@ Green ones
 
      ![green](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/7d4c3156-7c0d-4a9a-b5f6-b55978e18813)
 
+Note: On the Cisco terminal server, display the line numbers with "show line", each line number maps to a physical console cable
+
 
 # Another virtual example using the same codes
 
