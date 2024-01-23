@@ -57,10 +57,11 @@ Green
 
 Working Directory & Result:
 
-![1](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/5cfd0613-73a5-426a-bfdc-25195006a6d5)
+![3](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/28899e7d-14fd-4bdb-a10f-88a20b83b36a)
 
 Stored Configs
 
-![2](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/5efac279-8985-496a-844d-84b50ef82e2f)
+![4](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/6634cd62-f9c6-4c68-8b5f-f8cd84f82350)
+
 
 
