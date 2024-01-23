@@ -11,7 +11,7 @@ These testing switches are used for testing purposes and don't have a management
 
 However, we could access these switches via a terminal server.
 
-The testing switches' console ports connect to the console (octal) cables. 
+The testing switches' console ports connect to the console cables (octal cables in this case). 
 
 These console cables are screwed into the HWIC/NIM modules on the terminal servers (ex: C2800/2600/2900 or ISR4221 routers). 
 
