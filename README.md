@@ -25,7 +25,7 @@ telnet x.x.x.x 20xx
 > x.x.x.x is the IP address of the terminal server and 20xx is the line number defined by the router, which provides access to the switches.
 >
 >
-> Line number could be 20xx, 40xx, or 60xx, but preferrably 20xx for normal use.
+> Line number usually have 4 digits and could be 20xx, 40xx, 60xx, and etc... but preferably 20xx for normal use.
 
 Below is the physical lab topology:
 
