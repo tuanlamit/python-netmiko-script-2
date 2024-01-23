@@ -47,7 +47,7 @@ Green
      ![green](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/7d4c3156-7c0d-4a9a-b5f6-b55978e18813)
 
 > [!NOTE]
-> On the Cisco terminal server, display the line numbers with "show line", each line number maps to a physical console cable.
+> On the Cisco terminal server (router), display the line numbers with "show line", each line number maps to a physical console cable.
 >
 >
 > Each cable could be extended using an RJ45 coupler.
