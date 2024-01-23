@@ -11,11 +11,11 @@ These testing switches are used for testing purposes and don't have a management
 
 However, we could access these switches via a terminal server.
 
-The testing switches' console ports connect to the octal console cables. 
+The testing switches' console ports connect to the console (octal) cables. 
 
-These octal cables are screwed into the HWIC/NIM modules on the terminal servers (ex: C2800/2600/2900 or ISR4221 routers). 
+These console cables are screwed into the HWIC/NIM modules on the terminal servers (ex: C2800/2600/2900 or ISR4221 routers). 
 
-So we could reach the switches through the terminal server's line numbering. 
+The console cables provide the line numbers, so we could reach the switches through the terminal server's line numbering. 
 
 For example, enter this command into the terminal:
 ```
@@ -50,7 +50,7 @@ Green
 > On the Cisco terminal server (router), display the line numbers with the "show line" command, each line number maps to a physical console cable.
 >
 >
-> Each cable could be extended using an RJ45 coupler.
+> Each console cable could be extended using an RJ45 coupler.
 
 
 # Virtual lab example using the same codes
