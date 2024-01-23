@@ -1,6 +1,6 @@
 # (Script is being improved, will upload once complete)
 
-# Save the config and export it as a back-up.
+# Script the testing switches and store the configs locally
 
 Code executed on Ubuntu 22.04 to script approximately 200 Cisco testing switches.
 
