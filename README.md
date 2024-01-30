@@ -44,8 +44,11 @@ Green
      ![green](https://github.com/tuanlamit/python-netmiko-script-2/assets/128099142/7d4c3156-7c0d-4a9a-b5f6-b55978e18813)
 
 > [!NOTE]
-> On the Cisco terminal server (router), display the line numbers with the "show line" command, each line number maps to a physical console cable.
+> On the Cisco terminal server (router), display the line numbers with the "show line" command
 >
+> Line numbers virtually map to physical console cables, but they don't exactly match the physical numbering
+>
+> For example: physical console cable labeled with number one from the first HWIC/NIM module might show up as "2002 or 2003" from "show line" command
 >
 > Each console cable could be extended using an RJ45 coupler.
 
