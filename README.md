@@ -48,7 +48,7 @@ Green
 >
 > Line numbers virtually map to physical console cables, but they don't exactly match the physical numbering
 >
-> For example: physical console cable labeled with number one from the first HWIC/NIM module might show up as "2002 or 2003" from "show line" command
+> For example, a physical console cable labeled with the number 0 might show up as '2002,' '2010,' or '2018,' etc. from the 'show line' command.
 >
 > Each console cable could be extended using an RJ45 coupler.
 
