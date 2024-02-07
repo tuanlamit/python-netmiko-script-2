@@ -1,4 +1,4 @@
-# Script the testing switches and store the configs locally
+# Network Scripting Using Netmiko - 2
 
 Code executed on Ubuntu 22.04 to script approximately 200 Cisco testing switches.
 
